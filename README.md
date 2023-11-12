@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**student3146/student3146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Greetings, I'm Igor! 👋
 
-Here are some ideas to get you started:
+#### Some stats about my activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=student3146&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+#### Some stats about my routine techs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student3146&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔗 How to reach me
+
+[![gmail](https://img.shields.io/badge/gmail-eee?style=for-the-badge&logo=gmail&logoColor=red)](mailto:iskostiuk3146@gmail.com)
