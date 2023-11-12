@@ -4,7 +4,7 @@
 
 #### Some stats about my activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=student3146&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=student3146&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 #### Some stats about my routine techs
 
