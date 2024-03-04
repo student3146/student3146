@@ -15,3 +15,6 @@
 ## 🔗 How to reach me
 
 [![gmail](https://img.shields.io/badge/gmail-eee?style=for-the-badge&logo=gmail&logoColor=red)](mailto:iskostiuk3146@gmail.com)
+[![Read.cv](https://img.shields.io/static/v1?style=for-the-badge&message=CV&color=C6C6C6&logo=Read.cv&logoColor=333333&label=)](https://drive.google.com/file/d/1oXriQvt3paqL4vGCR0yZt9KZffIUQSnK/view?usp=sharing)
+
+
