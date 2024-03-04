@@ -6,10 +6,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=student3146&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-#### Some stats about my routine techs
+### Some stats about my routine techs ⭐
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student3146&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student3146&layout=compact&&langs_count=8"/>
+</div>
 
 
 ## 🔗 How to reach me
