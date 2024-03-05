@@ -9,7 +9,7 @@
 ### Some stats about my routine techs ⭐
 
 <div align="left">
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student3146&layout=compact&&langs_count=8"/>
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student3146&layout=compact&&langs_count=8">
 </div>
 
 
